@@ -1,0 +1,25 @@
+{
+    "Имя": "цукенгшгнкувеол",
+    "Фамилия": "Акжигитов",
+    "Почта": "muartakz@gmail.fffff",
+    "Пароль": "Prada-1lg",
+    "Город": "Санкт-Петербург",
+    "Образовательное учреждение": "Гимназия 642",
+    "Days": 1,
+    "Variants_did": 1,
+    "Variants_made": 1,
+    "Lessons_passed": 1,
+    "Info_text": [
+        "Дней с нами:",
+        "Вариантов решено:",
+        "Вариантов составлено:",
+        "Уроков пройдено"
+    ],
+    "Info_keys": [
+        "Days",
+        "Variants_did",
+        "Variants_made",
+        "Lessons_passed"
+    ],
+    "Avatar": "../img/avatar.png"
+}
